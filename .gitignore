@@ -1,0 +1,14 @@
+# random files
+.DS_Store
+*~
+\#*
+*.txt
+*.pyc
+
+# lab04
+lab04/Screen Shot 2018-04-02 at 7.03.21 PM.png
+lab04/estrela_pt.png
+
+# lab08
+lab08/.ipynb_checkpoints/
+lab08/aux.py
